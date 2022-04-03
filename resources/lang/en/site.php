@@ -1,0 +1,58 @@
+<?php
+
+return [
+    'home' => 'Home',
+    'add' => 'Add',
+    'show' => 'Show',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'add_new' => 'Add New',
+    'update' => 'Update',
+    'print' => 'Print',
+    'back' => 'Back',
+    'login' => 'Login',
+    'sign_in' => 'Login',
+    'register' => 'Sign Up',
+    'signup' => 'Sign Up',
+    'sign_up' => 'Sign Up',
+    'pages' => 'Pages',
+    'contact' => 'Contact Us',
+    'contact_with_us' => 'Contact Us',
+    'about' => 'About Us',
+    'published' => 'Published',
+    'created_at' => 'Created At',
+    'updated_at' => 'Updated At',
+    'action' => 'Action',
+    '404' => '404 Page Not Found',
+
+    'description' => 'Description',
+    'image' => 'Image',
+    'email' => 'Email',
+    'jobs' => 'Jobs',
+    'users' => 'Users',
+    'add_user' => 'Add User',
+    'show_jobs' => 'Show jobs',
+    'show_users' => 'Show Users',
+
+    'bjs' => 'Basic Job Site',
+
+    'add_job' => 'Add Job',
+    'edit_job' => 'Edit Job',
+    'job' => 'Job',
+    'name' => 'Job Title',
+    'job_description' => 'Job Description',
+
+
+    'added_successfully' => 'Added Successfully',
+    'updated_successfully' => 'Updated Successfully',
+    'deleted_successfully' => 'Deleted Successfully',
+    'applied_successfully' => 'Applied Successfully',
+
+    'no_data_found' => 'No Data Found',
+    'no_records' => 'No Records',
+    'job_name' => 'Job Title',
+    'status' => 'Status',
+    'posted_in' => 'Posted In',
+    'salary' => 'Salary',
+    'location' => 'location',
+];
